@@ -1,0 +1,15 @@
+.Main_box{
+    background-color: black;
+    color: white;
+}
+
+.overview{
+    background-color: black;
+    color: white;
+    padding-left: 5px;
+}
+
+.special_modal .modal-content {
+    background-color: #000;
+    color: #fff;
+  }
